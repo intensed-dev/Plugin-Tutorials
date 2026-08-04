@@ -10,8 +10,8 @@
 3. Starte den Server neu.
 
 ## Step 2 - Voicechat Server beheben
-1. **Auf Fabric:** bla. <br><br>
-**Auf Paper:** Öffne im Ordner `plugins/voicechat` die Datei `voicechat-server.yml`
+1. **Auf Fabric:** Öffne im Ordner `config/voicechat` die Datei `voicechat-server.properties`<br><br>
+**Auf Paper:** Öffne im Ordner `plugins/voicechat` die Datei `voicechat-server.properties`
 
 2. Ändere den Wert `port` auf `-1`
 
