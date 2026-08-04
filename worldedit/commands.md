@@ -37,3 +37,38 @@ Beispiel:
 ```
 //middle obsidian
 ```
+
+## //expand vert
+Erweitert die Auswahl von oben nach unten der Welt.
+Beispiel:
+```
+//expand vert
+```
+
+## //copy
+Kopiert die Blöcke innerhalb Auswahl.
+Beispiel:
+```
+//copy
+```
+
+## //paste
+Fügt die kopierte Auswahl ein.
+Beispiel:
+```
+//paste
+```
+
+## //undo
+Macht den letzten Command rückgängig.
+Beispiel:
+```
+//undo
+```
+
+## //redo
+Wiederholt das letzte //undo.
+Beispiel:
+```
+//redo
+```
