@@ -7,3 +7,4 @@ WorldEdit ist ein kostenloses und eins der meistgenutzten Plugins für die Welte
 | Links | [Modrinth](https://modrinth.com/project/1u6JkXh5), [GitHub](https://github.com/EngineHub/WorldEdit) |
 | Versionen | 1.2.3 - 26.2 |
 | Downloads | 9.4m <small>(Modrinth)</small> |
+| Ersteller | EngineHub |
