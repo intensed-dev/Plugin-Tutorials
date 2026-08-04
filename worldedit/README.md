@@ -10,6 +10,11 @@ WorldEdit ist ein kostenloses und eins der meistgenutzten Plugins für die Welte
 | Ersteller | EngineHub |
 
 ## Inhalte
-- [./commands](Befehle)
-- [./installation](Installation)
-- [./permissions](Permissions)
+- [Befehle](./commands)
+   - [//wand](./commands/#wand)
+   - [//set](./commands/#set)
+   - [//walls](./commands/#walls)
+   - [//replace](./commands/#replace)
+   - [//middle](./commands/#middle)
+- [Installation](./installation)
+- [Rechte](./permissions)
