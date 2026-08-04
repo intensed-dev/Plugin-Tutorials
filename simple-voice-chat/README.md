@@ -3,7 +3,7 @@ Simple Voice Chat, kurz SVC ist ein kostenloses und das meistgenutzte Plugin und
 
 | Info | Beschreibung |
 |:----:|:------------:|
-| Loader | Bukkit, Fabric, Folia, Forge, NeoForge, Paper, Quilt, Spigot |
+| Loader <small>(12)</small> | Bukkit, BungeeCord, Fabric, Folia, Forge, NeoForge, Paper, Purpur, Quilt, Spigot, Velocity, Waterfall |
 | Links | [Modrinth](https://modrinth.com/project/9eGKb6K1), [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat), [GitHub](https://github.com/henkelmax/simple-voice-chat) |
 | Versionen | 1.8.8 - 26.3-snapshot-6 |
 | Downloads | ![Modrinth Downloads](https://img.shields.io/modrinth/dt/9eGKb6K1?style=social&logo=modrinth&label=Modrinth) ![CurseForge Downloads](https://img.shields.io/curseforge/dt/416089?style=social&logo=curseforge&label=Curseforge) |
