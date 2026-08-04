@@ -31,7 +31,7 @@ Beispiel:
 //replace air stone
 ```
 
-# //middle <block>
+## //middle <block>
 Ersetzt den mittlersten Block im ausgewählten Bereich durch einen bestimmten Block. Mit einem Komma kann man mehrere Blöckr nutzen.
 Beispiel:
 ```
