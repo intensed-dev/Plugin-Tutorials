@@ -1,9 +1,5 @@
 # Worldedit / Commands
 
-- [//wand](#wand)
-- [//set](#set)
-- [//walls](#walls)
-
 ## //wand
 Gibt dem Spieler eine Holzaxt, mit welcher man WorldEdit Bereiche auswählen kann.
 Beispiel:
