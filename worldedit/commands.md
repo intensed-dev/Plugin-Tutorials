@@ -22,3 +22,18 @@ Beispiel:
 ```
 //walls oak_planks
 ```
+
+
+## //replace <target> <block>
+Ersetzt im ausgewählten Bereich alle Blöcke `<target>` durch einen bestimmten Block. Mit einem Komma kann man mehrere Blöcke nutzen.
+Beispiel:
+```
+//replace air stone
+```
+
+# //middle <block>
+Ersetzt den mittlersten Block im ausgewählten Bereich durch einen bestimmten Block. Mit einem Komma kann man mehrere Blöckr nutzen.
+Beispiel:
+```
+//middle obsidian
+```
