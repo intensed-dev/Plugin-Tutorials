@@ -3,5 +3,5 @@ Tutorials for Minecraft Java Edition Plugins
 
 
 ## Contents
-- [WorldEdit](./worldedit/)
-   - [Commands](./worldedit/commands/)
+- [WorldEdit](./worldedit)
+   - [Commands](./worldedit/commands)
