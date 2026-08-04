@@ -72,3 +72,13 @@ Beispiel:
 ```
 //redo
 ```
+
+## //schem <load|save> <name>
+Speichert oder lädt eine Schematic.
+Beispiel:
+```
+//schem save my_schem
+```
+```
+//schem load my_schem
+```
